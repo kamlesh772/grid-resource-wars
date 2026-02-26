@@ -14,3 +14,13 @@ You can simulate a simple match locally.
 Create a file named test_run.py and run:
 
 python test_run.py
+
+## Example Output
+
+Running `python test_run.py` produces output like:
+
+Final Scores:
+Agent 0 Score: 3
+Agent 1 Score: 2
+Agent 2 Score: 1
+Agent 3 Score: 4
